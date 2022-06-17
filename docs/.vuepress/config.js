@@ -4,7 +4,7 @@ module.exports = {
    * @type String
    * @default /
    */
-  base: '/',
+  base: '/langnang-temp/',
   /**
    * 网站的标题，它将会被用作所有页面标题的前缀，同时，默认主题下，它将显示在导航栏（navbar）上。
    * @type String
