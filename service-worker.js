@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "51b333633c35ab2e3f76f5226a5f6135"
+    "revision": "e1fdb32ef2f149a7c5269803cab82c96"
   },
   {
     "url": "assets/css/0.styles.288154ee.css",
@@ -90,16 +90,16 @@ self.__precacheManifest = [
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/10.b3e1bb61.js",
-    "revision": "cd51e3333cfb83e6d10253e0bfa5a38b"
+    "url": "assets/js/10.0bc2ed52.js",
+    "revision": "f8bb42d411daf6a63b5afa10103f0559"
   },
   {
     "url": "assets/js/11.2ae1af5a.js",
     "revision": "c748dfd737037b287ee3c42027a57dde"
   },
   {
-    "url": "assets/js/12.bdd61a90.js",
-    "revision": "05aaf922916487654a80251908cb7688"
+    "url": "assets/js/12.557ec9eb.js",
+    "revision": "703f49f15ca145e6e84a0e34a30e5bf0"
   },
   {
     "url": "assets/js/13.f3913364.js",
@@ -134,16 +134,12 @@ self.__precacheManifest = [
     "revision": "a0b7f7efec660ee722a42a9edc1e8a21"
   },
   {
-    "url": "assets/js/app.65b54606.js",
-    "revision": "1f40bd1e46110984c3d0fc1686e99679"
+    "url": "assets/js/app.9f383b5a.js",
+    "revision": "acecae0a62b0b81dec701c354d6acf10"
   },
   {
     "url": "assets/js/vendors~flowchart.8969c3d6.js",
     "revision": "19726498bbe883bf7ea6fce020eefa96"
-  },
-  {
-    "url": "guide/index.html",
-    "revision": "06d165ad95554da778bc5a8baa37f216"
   },
   {
     "url": "hero.png",
@@ -151,11 +147,19 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "3f7cb7d79d52bba5ff343d8cfc62258e"
+    "revision": "51b16fd47cde00c508fbaed9de836469"
   },
   {
     "url": "logo.png",
     "revision": "d1fed5cb9d0a4c4269c3bcc4d74d9e64"
+  },
+  {
+    "url": "sitemap.svg",
+    "revision": "71f3a167b43c81e124e3025f2ca3fdde"
+  },
+  {
+    "url": "template/index.html",
+    "revision": "aa1562de441204c51f05ae23662de0d6"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
