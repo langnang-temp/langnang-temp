@@ -23,7 +23,7 @@ module.exports = {
      */
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Guide', link: '/guide/' },
+      { text: 'Template', link: '/template/' },
       { text: 'Config', link: '/Config/' },
       { text: 'GitHub', link: 'https://github.com/langnang-temp/vuepress' },
       {

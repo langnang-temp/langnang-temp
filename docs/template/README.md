@@ -1,0 +1,3 @@
+# Template
+
+![](/sitemap.svg)
