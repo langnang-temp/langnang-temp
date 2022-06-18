@@ -1,7 +1,18 @@
 # Template
 
 - Static [GitHub](https://github.com/langnang-temp/static)
-  - requirejs
+  - RequireJS
+  - Bootstrap v3 [GitHub](https://github.com/langnang-temp/static-bootstrap-v3)
+  - Bootstrap v4
+  - Bootstrap v5
+  - jQueryUI
+  - Layui
+  - MuseUI
+  - View UI
+  - EasyUI
+  - QuicK UI
+  - At-UI
+  - tailwindcss
 - Node [GitHub](https://github.com/langnang-temp/node)
   - NPM Package [GitHub](https://github.com/langnang-temp/npm-package)
     - Vue UI Package [GitHub](https://github.com/langnang-temp/vue-ui-package)
