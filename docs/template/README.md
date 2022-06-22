@@ -6,7 +6,7 @@
   - NPM Package [GitHub](https://github.com/langnang-temp/npm-package)
     - Vue UI Package [GitHub](https://github.com/langnang-temp/vue-ui-package)
     - React UI Package
-    - VuePress Plugin Package
+    - VuePress Plugin Package [GitHub](https://github.com/langnang-temp/vuepress-plugin-package)
   - Vanilla
   - Vue UI [GitHub](https://github.com/langnang-temp/vue-ui)
     - Vue Element UI [GitHub](https://github.com/langnang-temp/vue-element-ui)
