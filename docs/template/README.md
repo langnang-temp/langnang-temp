@@ -35,4 +35,13 @@
 - PHP [GitHub](https://github.com/langnang-temp/php)
   - Composer Package [GitHub](https://github.com/langnang-temp/composer-package)
   - PHP Server [GitHub](https://github.com/langnang-temp/php-server)
+    - [Composer](https://packagist.org/)
+      - [nikic/fast-route](https://packagist.org/packages/nikic/fast-route)
+      - [doctrine/dbal](https://packagist.org/packages/doctrine/dbal) | [Docs](https://www.doctrine-project.org/projects/doctrine-dbal/en/latest/index.html#)
+      - [zircote/swagger-php](https://packagist.org/packages/zircote/swagger-php)
+      - [league/flysystem](https://packagist.org/packages/league/flysystem)
+      - [rmccue/requests](https://packagist.org/packages/rmccue/requests)
+      - [fakerphp/faker](https://packagist.org/packages/fakerphp/faker)
+      - [nicolab/php-ftp-client](https://packagist.org/packages/nicolab/php-ftp-client)
+      - `XML`
 - ASP.NET Core
